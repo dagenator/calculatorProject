@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hjwyEYVy4PNc7MUqoU/iWPyBDPYynnsR4FqKMm6Kk2vVQiOmYRUisavOQ+tfVmMb5n6JwpqYCCP9IBCUt+BdeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabid\\source\\repos\\calculatorProject\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabid\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gabid\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\gabid\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\gabid\\.nuget\\packages\\nunit3testadapter\\4.2.0\\nunit3testadapter.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
